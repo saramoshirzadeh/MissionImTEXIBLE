@@ -1,2 +1,2 @@
 # MissionImTEXIBLE
-Mission Statements give the public a small taste of what a company values and prioritizes. This study collected and analyzed mission statement data from 9 organizations across different sectors: tech, finance, food/beverage, and non profit.
+We built a resuable Python NLP framework that can clean, process, and compare documents, and then display word use patterns across different industries. Ultimately, this data reveals how companies communicate their purpose. 
